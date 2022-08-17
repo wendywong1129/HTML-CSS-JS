@@ -1,0 +1,17 @@
+table,
+th,
+td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#mytable {
+  color: orange;
+}
+
+.mytable_class {
+  background: rgba(248, 215, 30, 0.56);
+}
